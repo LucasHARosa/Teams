@@ -13,6 +13,10 @@ export function Groups() {
   const [groups, setGroups] = useState<string[]>([]);
 
   const navigation = useNavigation()
+  
+  function handleOpenGroup(group: string) {
+    navigation.navigate('players', { group })
+  }
 
   function handleNewGroup() {
     navigation.navigate('new');
@@ -42,7 +46,8 @@ export function Groups() {
         keyExtractor={item => item}
         renderItem={({ item }) => (
           <GroupCard 
-            title={item} 
+            title={item}
+            onPress={() => handleOpenGroup(item)}   
           />
         )}
         contentContainerStyle={groups.length === 0 && { flex: 1 }}
