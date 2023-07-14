@@ -29,3 +29,12 @@ As funcionalidades possíveis na aplicação, que são:
 <p align="center">
     <img height="400" src="./Imagens/Media_230714_112710.gif" alt="">
 </p>
+
+<div align="center">
+    
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) 
+
+</div>
+  
