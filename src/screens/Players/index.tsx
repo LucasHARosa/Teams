@@ -182,6 +182,7 @@ export function Players() {
       <Button 
         title="Remover Turma"
         type="SECONDARY"
+        onPress={handleGroupRemove}
       />
     </Container>
 
