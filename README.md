@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/PS_UpBase)
-![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/PS_UpBase)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/PS_UpBase)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/PS_UpBase)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Teams)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/Teams)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/Teams)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/Teams)
 # App - Teams
 
 Aplicação mobile em React Native usando navegação stack e local storage. O aplicativo permite criar turmas de jogos e atividades e dividir pessoas entre as duas turmas
